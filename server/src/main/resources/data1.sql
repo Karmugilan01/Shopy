@@ -1,0 +1,11 @@
+INSERT INTO product (name, desc, brand, price, category, release_date, available, quantity) VALUES
+                                                                                                ('iPhone 15 Pro', 'Latest flagship smartphone with A17 chip', 'Apple', 89900.00, 'Electronics', '2023-10-10', true, 50),
+                                                                                                ('Samsung Galaxy S24', 'Android phone with AI features', 'Samsung', 71800.00, 'Electronics', '2024-02-01', true, 75),
+                                                                                                ('MacBook Air M2', 'Lightweight laptop for productivity', 'Apple', 98800.00, 'Computers', '2022-06-01', true, 30),
+                                                                                                ('Dell XPS 13', 'Premium ultrabook with OLED option', 'Dell', 107800.00, 'Computers', '2023-02-01', true, 40),
+                                                                                                ('Sony WH-1000XM5', 'Noise-cancelling headphones', 'Sony', 35900.00, 'Audio', '2022-08-01', true, 100),
+                                                                                                ('Nike Air Max 90', 'Classic running shoes', 'Nike', 11700.00, 'Footwear', '2022-12-01', true, 200),
+                                                                                                ('Adidas Ultraboost', 'Comfortable athletic shoes', 'Adidas', 17000.00, 'Footwear', '2023-01-01', false, 0),
+                                                                                                ('Coca-Cola 12pk', 'Classic soda pack', 'Coca-Cola', 540.00, 'Beverages', '2024-12-01', true, 500),
+                                                                                                ('Organic Avocado', 'Fresh produce pack of 4', 'Generic', 450.00, 'Groceries', '2024-11-01', true, 150),
+                                                                                                ('Lenovo ThinkPad X1', 'Business laptop with durability', 'Lenovo', 134700.00, 'Computers', '2023-05-01', true, 25);
